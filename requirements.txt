@@ -1,0 +1,12 @@
+flask
+opencv-python
+pillow
+torch
+torchvision
+ultralytics
+numpy
+werkzeug
+matplotlib
+pyyaml
+flask-wtf
+gunicorn

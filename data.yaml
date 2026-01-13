@@ -1,0 +1,5 @@
+train: C:\Users\ebalu\Downloads\New folder\dataset\images\train
+val: C:\Users\ebalu\Downloads\New folder\dataset\images\valid
+
+nc: 12
+names: ['Apple', 'Chapati', 'Chicken Gravy', 'Fries', 'Idli', 'Pizza', 'Rice', 'Soda', 'Tomato', 'Vada', 'banana', 'hamburger']
